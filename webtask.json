@@ -1,8 +1,8 @@
 {
-  "title": "Auth0 Logs to Segment",
-  "name": "auth0-logs-to-segment",
+  "title": "Auth0 Logs to Segment - seejee",
+  "name": "auth0-logs-to-segment-seejee",
   "version": "1.1.0",
-  "author": "auth0",
+  "author": "seejee",
   "description": "This extension will take all of your Auth0 logs and export them to Segment",
   "type": "cron",
   "repository": "https://github.com/auth0/auth0-logs-to-segment",
